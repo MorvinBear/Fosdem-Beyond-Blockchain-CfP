@@ -35,7 +35,7 @@ The main topic of the room will be the p2p, distributed internet, and the open c
 * During the stream of your talk, you must be available online for the Q/A sessions
 
 ### Submit your talk!
-* All submissions for devrooms are made through the FOSDEM Pentabarf website - you need to register, in case you haven't done so already.
+* All submissions for devrooms are made through the [FOSDEM Pentabarf website](https://penta.fosdem.org/submission/FOSDEM21) - you need to register, in case you haven't done so already.
 * Select the "Beyond Blockchain devroom" as the track for your "event", which is FOSDEMspeak for talk.
 * Add all the info requested and whatever you think it's necessary for us to select it for FOSDEM.
 * Please remember to include your time zone in your bio or where you think it's reasonable so that we can schedule your talk accordingly.
