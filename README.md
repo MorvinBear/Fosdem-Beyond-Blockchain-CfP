@@ -47,8 +47,10 @@ The main topic of the room will be the p2p, distributed internet, and the open c
 If you want to help with helping speakers setup and record their talks, facilitating during the event, getting the word out to more projects, mailing sweet letters with watercolors of flowers to organizers and presenters and other volunteers, and/or some other thing, please let us know!
 
 ### Get in touch
-If you have questions, contact:
+If you have questions, please reach out to us at:
+
 Eric Bear bear@holochain.org
+
 Anna Lekanova anna@fluence.one
 
 ### Do you have a picture of a beautiful dog? Yes. Here:
