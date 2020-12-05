@@ -1,7 +1,4 @@
-# Fosdem-Beyond-Blockchain-DWed-Devroom-Call-for-Proposals
-blippity blippity bloop
-
-## FOSDEM 2021, Beyond Blockchain / Distributed Web Devroom: Call for Proposals open!!!
+# FOSDEM 2021, Beyond Blockchain / Distributed Web Devroom: Call for Proposals open!!!
 
 ### This is the first year we’re having a distributed web room at FOSDEM!
 There is no registration, but attendees must follow FOSDEM code of conduct and for the first time this year the event will be on-line.
@@ -53,8 +50,9 @@ Eric Bear bear@holochain.org
 
 Anna Lekanova anna@fluence.one
 
-### Do you have a picture of a beautiful dog? Yes. Here:
+### Do you have a picture of a beautiful dog?
+### Yes. Here:
 
-
+![alt text](https://github.com/MorvinBear/Fosdem-Beyond-Blockchain-DWed-Devroom-Call-for-Proposals/blob/main/IMG-20200829-WA0004.jpg?raw=true)
 
 
