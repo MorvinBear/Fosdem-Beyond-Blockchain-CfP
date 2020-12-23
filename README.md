@@ -4,8 +4,8 @@
 There is no registration, but attendees must follow FOSDEM code of conduct and for the first time this year the event will be on-line.
 
 ### CfP Deadlines
-* Submission deadline: Jan 8, 2021
-* Selected talks announced by Jan 12, 2021
+* Submission deadline: Dec 30, 2020 (final deadline of Jan 7)
+* Selected talks announced by Jan 31, 2021
 * Conference dates Feb 6-7, 2021 
 * Beyond Blockchain devroom taking place on Saturday Feb 6, 2021
 * Accepted proposal talk recordings submission by Jan 20
